@@ -1,3 +1,5 @@
+> This fork is being maintained to work on aarch64 chroot env by faking proot.
+
 Bubblewrap
 ==========
 
